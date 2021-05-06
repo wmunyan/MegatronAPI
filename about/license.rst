@@ -11,7 +11,7 @@ Obtain License Files
 #. Click on your Organization Name
 #. Select the “Licenses” tab beneath your organization name on the left side of the screen
 #. Click on Download
-	* **NOTE**: Ensue that java script is unblocked on your browser if you do not see that the file has downloaded.
+	#. **NOTE**: Ensue that java script is unblocked on your browser if you do not see that the file has downloaded.
 #. Navigate to the downloaded files and extract the contents
 
 License Renewal

@@ -11,5 +11,5 @@ There are no special requirements to contribute beyond recognizing our Terms of 
 * Fork the associated GitHub repository and create a pull request
 * Service Desk?
 
-NOTE: To create issues or fork the repository and then submit a pull request, you will need to establish a GitHub account.  The Associated GitHub repository can be reached by clicking "Edit on GitHub" in the upper right of the Read the Docs page.  The Controls Assessment Specification GitHub repository is located at https://github.com/CISecurity/ControlsAssessmentSpecification
+NOTE: To create issues or fork the repository and then submit a pull request, you will need to establish a GitHub account.  The Associated GitHub repository can be reached by clicking "Edit on GitHub" in the upper right of the Read the Docs page.  The SecureSuite Member API GitHub repository is located at https://github.com/wmunyan/MegatronAPI
 
