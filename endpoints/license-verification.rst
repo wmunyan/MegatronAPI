@@ -14,6 +14,7 @@ Endpoint
 --------
 
 .. code-block::
+
 	/license
 
 Request Payload/Parameters
