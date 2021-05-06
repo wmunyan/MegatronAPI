@@ -1,14 +1,20 @@
-<Endpoint Title>
+SecureSuite Member License Verification
 =========================================================
-<Endpoint Description>
+The body of this POST request includes the SecureSuite member's license key, and the backend function performs verification of the key, returning back to the caller a token (generated based on the license key) for future use. The token will be stored for future authorization purposes and to track a time limit for its usage.
 
 .. list-table::
 	:header-rows: 1
 
 	* - Request Type 
 	  - Visibility
-	* - (GET|POST)
-	  - (Public|SecureSuite Members Only)
+	* - POST
+	  - Public
+
+Endpoint
+--------
+
+.. code-block::
+	/license
 
 Request Payload/Parameters
 --------------------------
